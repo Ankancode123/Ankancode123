@@ -7,8 +7,6 @@
 
 - 😎 I’m currently learning **Machine Learning ,Azure Services**
 
-- 🌱 I’m currently learning **Machine Learning in Azure, Competitive Coding**
-
 - 👯 I’m looking to collaborate on **ML projects**
 
 - 📝 I regularly write articles on Medium [https://medium.com/@ankanbiswas008](https://medium.com/@ankanbiswas008)
