@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on Medium [https://medium.com/@ankanbiswas008](https://medium.com/@ankanbiswas008)
 
-- 💬 Ask me about **Azure, GitHub, Python**
+- 💬 Ask me about **Azure, GitHub, Machine Learning , Python**
 
 - 📫 How to reach me **ankanbiswas008@gmail.com**
 
